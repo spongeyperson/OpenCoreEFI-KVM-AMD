@@ -1,6 +1,8 @@
 # Spongey's MacOS (Monterey) OpenCore EFI for Proxmox
 MacOS Monterey `12.0.1` on `Proxmox VE 7.0-13` with Radeon RX 6800XT or GT 710 passed through.
 
+## DISCLAIMER
+__This Repository is currently in a `Work In Progress` State. I am not responsible for your Machine not posting anymore, nor do i provide any support if anything does break. Use at your own risk__
 
 ## System Specs:
 [**CPU**] AMD Threadripper 2950x 16-Core <br />
