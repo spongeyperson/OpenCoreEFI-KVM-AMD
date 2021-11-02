@@ -20,6 +20,6 @@ __This Repository is currently in a `Work In Progress` State. I am not responsib
 
 ## What works
 - Single GPU passthrough
-- Host CPU Passthrough with OpenCore & [AMD Kernel Patch](https://github.com/AMD-OSX/AMD_Vanilla/tree/master#read-me-first)
+- Host CPU Passthrough with OpenCore & [AMD Kernel Patch](https://github.com/AMD-OSX/AMD_Vanilla/tree/master#read-me-first) (Used 16 Core Patch)
 - PCIe USB card Passthrough
 - On-Board USB Controllers Passthrough
