@@ -5,7 +5,7 @@ MacOS Monterey `12.0.1` on `Proxmox VE 7.0-13` with Radeon RX 6800XT or GT 710 p
 __This Repository is currently in a `Work In Progress` State. I am not responsible for your Machine not posting anymore, nor do i provide any support if anything does break. Your results may vary, Use at your own risk__
 
 ## System Specs:
-[**CPU**] AMD Threadripper 2950x 16-Core <br />
+[**CPU**] AMD Threadripper 2950x 16-Core (`17h`)<br />
 [**Cooler**] NZXT Kraken X62 280mm AIO <br />
 [**Motherboard**] ASRock X399 Taichi (BIOS 3.92 beta) <br />
 [**Memory**] Corsair Vengeance RGB Pro 64GB (4x16GB) DDR4-3600 <br />
