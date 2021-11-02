@@ -332,7 +332,7 @@
 				<key>Comment</key>
 				<string>MacPro7,1 Memory Nag Notification Disabler</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/MacProMemoryNotificationDisabler</string>
 				<key>MaxKernel</key>
