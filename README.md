@@ -5,8 +5,10 @@ MacOS `12.0.1` using `MacPro7,1` on `Proxmox VE 7.0-13` with Radeon RX 6800XT or
 | :--: |
 | <sub> About this Mac (With AMD Patch Applied) </sub> |
 
-## DISCLAIMER
-__This Repository is currently in a `Work In Progress` State. I am not responsible for your Machine not posting anymore, nor do i provide any support if anything does break. Your results may vary, Use at your own risk__
+## DISCLAIMER(S)
+- __This Repository is currently in a `Work In Progress` State. I am not responsible for your Machine not posting anymore, nor do i provide any support if anything does break. Your results may vary, Use at your own risk__
+
+- __Do not__ use the `config.plist` without first editing the Serial Number & ROM.
 
 ## System Specs:
 | **Component**    | **Model**                                        |
