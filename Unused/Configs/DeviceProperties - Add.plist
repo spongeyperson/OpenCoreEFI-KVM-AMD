@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DeviceProperties</key>
+	<dict>
+		<key>Add</key>
+		<dict>
+			<key>PciRoot(0x1)/Pci(0x1F,0x0)</key>
+			<dict>
+				<key>compatible</key>
+				<string>pci8086,2916</string>
+				<key>device-id</key>
+				<data>FikA</data>
+				<key>name</key>
+				<string>pci8086,2916</string>
+			</dict>
+		</dict>
+		<key>Delete</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>
